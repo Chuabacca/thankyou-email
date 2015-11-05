@@ -1,0 +1,142 @@
+<!doctype html>
+<html>
+	<head>
+    	<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-compatible" content="IE=edge">
+    	<title>Hey!</title>
+        <style>
+        	body {
+                margin: 0;
+                padding: 0;
+                min-width: 100%;
+            }
+            table {
+                    margin: 0 auto !important;
+            }
+        </style>
+	</head>
+	<body style="margin: 0; padding: 0; min-width: 100%;">
+        
+        <!-- PREHEADER TEXT -->
+        <div style="display: none; font-size: 0px; line-height: 0px; max-height: 0px; max-width: 0px; width: 0px; opacity: 0; overflow: hidden;">
+        	Just a quick note to say, "What's up?"
+        </div>
+        
+        <!-- BODY -->
+        <table align="center" bgcolor="#79bfd8" border="0" cellspacing="0" cellpadding="0" height="52.5px" width="100%">
+            <tr>
+                <td align="center" style="padding: 0 15px 0 15px" width="100%">
+                    
+                    <!-- FIXED WIDTH CONTAINER -->
+                    <!--[if gte mso 12]>
+                    <table align="center" border="0" cellpadding="0" cellspacing="0" width="570">
+                        <tr>
+                            <td>
+                            <![endif]-->
+                    <!-- FIXED WIDTH CONTAINER -->
+                    		
+                    		<table align="center" border="0" cellspacing="0" cellpadding="0">
+                                <tr>
+                                	<td style="padding-top: 20px;">
+                                		<img src="https://raw.githubusercontent.com/Chuabacca/thankyou-email/master/jon-top.png" alt="Jonathan" style="color: #777777; display: block; font-family: 'HelveticaNeue-Light', 'Helvetica Neue', Helvetica, Arial; font-size: 24px;" width="125">
+                                	</td>
+                                </tr>
+                    		</table>
+                    		<table align="center" bgcolor="#eeeeeb" border="0" cellspacing="0" cellpadding="0" style="border-radius: 5px; max-width: 570px;" width="100%">
+                                <tr>
+                                    <td align="center">
+                                    	<img src="https://raw.githubusercontent.com/Chuabacca/thankyou-email/master/jon-bottom.png" alt="Chua" style="color: #777777; font-family: 'HelveticaNeue-Light', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 24px;" width="125">
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td align="center" style="color: #777777;font-family: 'HelveticaNeue-Light', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 300; line-height: 150%; max-width: 570px; padding: 40px;">
+                                        <span style="font-size: 24px; font-weight: bold;">Hey!</span><br/>
+                                        <br />
+                                        <br />
+                                        I just wanted to write you a quick note to see how things are going. Since staring at line after line of text can get pretty boring after a while, I decided to spice things up a bit. I hope you like it. I'd love to hear back from you soon.<br />
+                                        <br />
+                                        <br />
+                                        <span style="font-weight: bold;">Thanks!</span><br />
+                                        <span style="font-size: 24px; font-weight: bold;">Jon</span>
+                                    </td>
+                                </tr>
+                    		</table>
+                    		
+                    <!-- FIXED WIDTH CONTAINER -->
+                    		<!--[if gte mso 12]>
+							</td>
+						</tr>
+					</table>
+					<![endif]-->
+                    <!-- FIXED WIDTH CONTAINER -->
+                    
+                </td>
+            </tr>
+        </table>
+        <!-- END BODY -->
+        
+        <!-- ANCHOR IMAGE -->
+        <table bgcolor="#79bfd8" border="0" cellspacing="0" cellpadding="0" width="100%">
+            <tr>
+            	<td style="padding-top: 15px;">
+                    <!-- FIXED WIDTH CONTAINER -->
+                    <!--[if gte mso 12]>
+                    <table align="center" border="0" cellpadding="0" cellspacing="0" width="570">
+                        <tr>
+                            <td>
+                            <![endif]-->
+                    <!-- FIXED WIDTH CONTAINER -->
+                                <table border="0" cellspacing="0" cellpadding="0" width="100%">
+                                    <tr>
+                                        <td align="center">
+											<img src="https://raw.githubusercontent.com/Chuabacca/thankyou-email/master/dsc-hq.jpeg" alt="DSC HQ drawn with Adobe Sketch" style="color: #ffffff; display: block; font-family: 'HelveticaNeue-Light', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 26px;" width="100%">
+                                        </td>
+                                    </tr>
+                                </table>
+                    <!-- FIXED WIDTH CONTAINER -->
+                            <!--[if gte mso 12]>
+                            </td>
+                        </tr>
+                    </table>
+                    <![endif]-->
+                    <!-- FIXED WIDTH CONTAINER -->
+            	</td>
+            </tr>
+        </table>
+        <!-- END ANCHOR IMAGE -->
+        
+        <!-- FOOTER -->
+        <table bgcolor="#444444" border="0" cellspacing="0" cellpadding="0" width="100%">
+            <tr>
+                <td style="padding-bottom: 0;">
+                    <!-- FIXED WIDTH CONTAINER -->
+                    <!--[if gte mso 12]>
+                    <table align="center" border="0" cellpadding="0" cellspacing="0" width="570">
+                        <tr>
+                            <td>
+                            <![endif]-->
+                    <!-- FIXED WIDTH CONTAINER -->
+                                <table border="0" cellspacing="0" cellpadding="0" width="100%">
+                                    <tr>
+                                        <td align="center" style="color: #cccccc; font-family: 'HelveticaNeue-Light', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 300; padding-bottom: 20px; padding-top: 10px;">
+                                            email designed by Jonathan Chua<br />
+                                            sketch created on Adobe Sketch<br />
+                                            <br />
+                                            <a href="https://twitter.com/theChuabacca" target="_blank" style="color: #ffffff;text-decoration: none;">@theChuabacca</a>
+                                        </td>
+                                    </tr>
+                                </table>
+                    <!-- FIXED WIDTH CONTAINER -->
+                            <!--[if gte mso 12]>
+                            </td>
+                        </tr>
+                    </table>
+                    <![endif]-->
+                    <!-- FIXED WIDTH CONTAINER -->
+                </td>
+            </tr>
+        </table>
+        <!-- END FOOTER -->        
+	</body>
+</html>
